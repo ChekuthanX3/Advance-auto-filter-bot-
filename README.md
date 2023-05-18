@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+kuTTu-boT!;Created+by+GouthamSER!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+kuTTu-boT!;Created+by+CHEKUTHAN!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 <p align="center">
   <img src="logo.jpg" alt="kuTTu">
