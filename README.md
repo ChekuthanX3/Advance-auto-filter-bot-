@@ -7,12 +7,12 @@
   <b>kuTTu boT</b>
 </h1>
 
-<a href="https://t.me/wudixh1">
+<a href="https://t.me/Lion_098765">
   <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
  
  
 
-[![Stars](https://img.shields.io/github/stars/GouthamSER/TelegramBot?style=flat-square&color=yellow)](https://github.com/GouthamSER/TelegramBot/stargazers)
+[![Stars](https://img.shields.io/github/stars/GouthamSER/TelegramBot?style=flat-square&color=yellow)]([[https://github.com/ChekuthanX3/Advance-auto-filter-bot-])
 [![Forks](https://img.shields.io/github/forks/GouthamSER/TelegramBot?style=flat-square&color=orange)](https://github.com/GouthamSER/TelegramBot/fork)
 [![Size](https://img.shields.io/github/repo-size/GouthamSER/TelegramBot?style=flat-square&color=green)](https://github.com/GouthamSER/TelegramBot)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/GouthamSER/TelegramBot)   
